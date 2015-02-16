@@ -1,0 +1,46 @@
+{
+	"jupe" : {
+		"maxroot" : "",
+		"lyroot" : "",
+		"version" : 0.4
+		},
+	"work" : {
+		"id" : "watercities",
+		"title" : "Water Cities",
+		"maxroot" : "C://Ran/Code/LilyPond/Works-LilyPond/Dead Reckoning/",
+		"lyroot" : "C://Ran/Code/LilyPond/Works-LilyPond/Dead Reckoning/",
+		"version" : 0.1
+	},
+	"lyfiles" : {
+		"jupe.work" : {
+			"filename" : "jupe.work.ly",
+			"folder" : "",
+			"autocreate" : 1,
+			"alwaysrecreate" : 1,
+			"createfunction" : "copyfromlyroot"
+		}, 
+		"jupe.includes" : {
+			"filename" : "jupe.includes.ly",
+			"folder" : "jupe.auto",
+			"autocreate" : 1,
+			"alwaysrecreate" : 1,
+			"createfunction" : "createincludes"
+		}, 
+		"shards" : {
+			"filename" : "shards.watercities.ly",
+			"folder" : "",
+			"autocreate" : 1,
+			"alwaysrecreate" : 0,
+			"autoinclude" : 1,
+			"createfunction" : "emptyfile"
+		}, 
+		"branch.misty.violinOne" : {
+			"filename" : "shards.watercities.ly",
+			"folder" : "",
+			"autocreate" : 1,
+			"alwaysrecreate" : 0,
+			"autoinclude" : 1,
+			"lyvariable" : "branchmistyviolinOne"
+		}, 
+	}
+}

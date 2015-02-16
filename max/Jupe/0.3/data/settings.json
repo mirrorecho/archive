@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "settings[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"u168002544" : [  ],
+					"gizmo.drone::u249002546" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

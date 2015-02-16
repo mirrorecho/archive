@@ -1,0 +1,16 @@
+{
+	"material" : 	{
+		"morning" : 		{
+			"type" : "file"
+		},
+		"afternoon" : 		{
+			"type" : "shard",
+			"content" : "atatasdf sdf\nsdfsdf"
+		}
+	}
+,
+	"version" : 	{
+
+	}
+
+}

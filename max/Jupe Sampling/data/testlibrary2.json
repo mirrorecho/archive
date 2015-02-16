@@ -1,0 +1,36 @@
+{
+	"TAGTYPE" : {
+		"code": "PLACES_EVENTS",
+		"name": "Places  Events",
+		"description" : "Tags from particular places or events"
+		},
+	"TAG" : {
+		"code" : "ANIMAL",
+		"name" : "Animal Sounds",
+		"description" : "Animal sounds"		
+		},
+	"SOUND" : {
+		"name" : "Chanting in Amarapura",
+		"filename" : "Chanting in Amarapura.wav",
+		"tags" : ["MYANMAR", "VOICE"],
+		"pitched" : true,
+		"pitches" : [14, 35, 64, 95, 34],
+		"path" : "c:/test/test/test/test/test/test/test/test/Chanting in Amarapura Chanting in Amarapura Chanting in Amarapura Chanting in Amarapura.wav",
+		"description" : "This is changing from Amarapura in Myanmar. Recorded on a handheld recorder inside a monastary.",
+		"source_date" : "2013-11-10",
+		"create_date" : "2013-11-10",
+		"modified_date" : "2013-11-10"
+		},
+	"SOUND" : {
+		"name" : "Chanting in Amarapura",
+		"filename" : "Chanting in Amarapura.wav",
+		"tags" : ["MYANMAR", "VOICE"],
+		"pitched" : true,
+		"pitches" : [14, 35, 64, 95, 34],
+		"path" : "c:/test/test/test/test/test/test/test/test/Chanting in Amarapura Chanting in Amarapura Chanting in Amarapura Chanting in Amarapura.wav",
+		"description" : "This is changing from Amarapura in Myanmar. Recorded on a handheld recorder inside a monastary.",
+		"source_date" : "2013-11-10",
+		"create_date" : "2013-11-10",
+		"modified_date" : "2013-11-10"
+		},
+}

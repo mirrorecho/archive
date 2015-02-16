@@ -1,0 +1,33 @@
+{
+	"lines" : {
+		"violinOne" : {
+			"name" : "Violin 1"
+		},
+		"violinTwo" : {
+			"name" : "Violin 2"
+		},
+		"viola" : {
+			"name" : "Viola"			
+		},
+		"cello" : {
+			"name" : "Cello"
+		}
+	},
+	"branches" : {
+		"morning" : {
+			"branches" : ["misty", "wake", "misty"],
+			"notes" : "Morning is Great"
+			},
+		"misty" : {
+			"notes" : "Oh Man"
+			},
+		"wake" : {},
+		"afternoon" : {},
+		"evening" : {},
+		"dusk" : {}
+	},
+	"score" : {
+		"branches" : ["morning", "afternoon", "evening", "dusk"],
+		
+	}
+}

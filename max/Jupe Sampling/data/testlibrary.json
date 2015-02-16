@@ -1,0 +1,153 @@
+{
+	"jupe.type" : "soundlibrary",
+	"description" : "Universal Sound Library",
+	"tagtypes" : 	{
+		"places" : 		{
+			"description" : "Tags for particular places"
+		}
+,
+		"events" : 		{
+			"description" : "Tags for particular events",
+			"notes" : "Travels, holidays, concerts, etc."
+		}
+,
+		"impressions" : 		{
+			"description" : "Tags for impressions of sounds",
+			"notes" : " Sad, scary, funny, etc."
+		}
+,
+		"instruments" : 		{
+			"description" : "Tags for specific instrument sounds"
+		}
+,
+		"living" : 		{
+			"description" : "Tags for sounds made by living creatures",
+			"notes" : "Human voices, animals, insects, etc."
+		}
+,
+		"methods" : 		{
+			"description" : "Tags for methods of producing the sounds",
+			"notes" : "Recordings, synthesized, composite, etc."
+		}
+,
+		"noise" : 		{
+			"description" : "Tags for all kinds of noises!"
+		}
+
+	}
+,
+	"tags" : 	{
+		"myanmar" : 		{
+			"types" : [ "places", "events" ],
+			"description" : "Myanmar 2013",
+			"notes" : "Sounds recorded in Myanmar in November, 2013"
+		}
+,
+		"voice" : 		{
+			"types" : [ "instruments", "living" ],
+			"description" : "Human voice",
+			"notes" : "Sounds with a human voice or voices"
+		}
+,
+		"animal" : 		{
+			"types" : [ "noise", "living" ],
+			"description" : "Animal Sounds",
+			"notes" : "Animal sounds"
+		}
+,
+		"echodog" : 		{
+			"types" : [ "living" ],
+			"description" : "Echo!"
+		}
+,
+		"machines" : 		{
+			"types" : [ "noise" ],
+			"description" : "Machine Sounds",
+			"notes" : "Machine Sounds"
+		}
+
+	}
+,
+	"sounds" : 	{
+		"echo.groan.1" : 		{
+			"description" : "Chanting in Amarapura",
+			"file" : "C:\\Ran\\Mirror\\Sounds\\Universal\\Animal\\Echo Groan 1.wav",
+			"tags" : [ "animal", "echodog" ],
+			"pitched" : null,
+			"pitches" : [  ],
+			"notes" : "He's a handful!!!!!",
+			"source_date" : "",
+			"create_date" : "",
+			"modified_date" : "2010-04-18",
+			"channels" : 1,
+			"length" : 4368.639456
+		}
+,
+		"vcca.lawnmower.1" : 		{
+			"description" : "Lawn Mower Drive-by",
+			"file" : "C:\\Ran\\Mirror\\Sounds\\Universal\\Noisy\\Lawn Mower 1.wav",
+			"tags" : [ "machines" ],
+			"pitched" : null,
+			"pitches" : [ 14, 35, 64, 95, 34 ],
+			"notes" : "Great panning lawnmower sound!.",
+			"source_date" : "",
+			"create_date" : "",
+			"modified_date" : "2009-09-09",
+			"channels" : 2,
+			"length" : 27807.687075
+		}
+,
+		"vcca.lawnmower.2" : 		{
+			"description" : "Lawn Mower Drive-by 2",
+			"file" : "C:\\Ran\\Mirror\\Sounds\\Universal\\Noisy\\Lawn Mower 2.wav",
+			"tags" : [ "machines" ],
+			"channels" : 2,
+			"length" : 16926.417234,
+			"pitched" : null,
+			"pitches" : [ 14, 35, 64, 95, 34 ],
+			"notes" : "Great panning lawnmower sound!.",
+			"source_date" : "",
+			"create_date" : "",
+			"modified_date" : "2009-09-09",
+			"source_sound" : null
+		}
+,
+		"horn.silly.Eb" : 		{
+			"file" : "C:/Ran/Mirror/Sounds/Universal/Horny/Eb Silly horn.wav",
+			"description" : "New sound",
+			"tags" : "*",
+			"notes" : "*",
+			"source_date" : "*",
+			"create_date" : "*",
+			"modified_date" : "2011-02-05",
+			"channels" : 1,
+			"length" : 3076.235828
+		}
+,
+		"cat.heman.meow.1" : 		{
+			"file" : "C:/Ran/Mirror/Sounds/Universal/Animal/Ann's Cat He Man/He Man's Meow 1.wav",
+			"description" : "*",
+			"tags" : [ "animal" ],
+			"notes" : "*",
+			"source_date" : "*",
+			"create_date" : "*",
+			"modified_date" : "2010-01-05",
+			"channels" : 2,
+			"length" : 782.743764
+		}
+,
+		"bell.a#4" : 		{
+			"file" : "C:/Ran/Mirror/Sounds/Universal/Bell/A#4 Bell 1.wav",
+			"description" : "*",
+			"tags" : "[]",
+			"notes" : "*",
+			"source_date" : "*",
+			"create_date" : "*",
+			"modified_date" : "2009-09-09",
+			"channels" : 2,
+			"length" : 2925.419501
+		}
+
+	}
+
+}

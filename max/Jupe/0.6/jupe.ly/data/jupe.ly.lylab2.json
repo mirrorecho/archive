@@ -1,0 +1,32 @@
+{
+	"lyversion" : "2.16.2",
+	"material" : {
+		"shard_beginning" : {
+			"type" : "shard",
+			"filename" : "",
+			"lymusic" : "c4 c4 c4"
+		},
+		"shard_middle" : {
+			"filename" : "",
+		},
+		"shard_end" : {
+			"music" : "{c4 c c c}"
+		}
+	},
+	"branches" : {
+		"morning" : {
+			"signature" : {
+				"1" : {
+					"time": "4/4",
+					"spaces" : 3
+				}
+			}
+		},
+		"afternoon" : {
+
+		}, 
+		"evening" : {
+
+		}
+	}
+}

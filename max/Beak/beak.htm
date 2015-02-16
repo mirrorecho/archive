@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<script type="text/javascript" language="javascript" src="Matrix.js"></script>
+	</head>
+	<body>
+		<div>
+			<button onclick="beak1_start()">Start</button>
+			<button onclick="beak1_randomize()">Randomize</button>
+			<button onclick="beak1_go()">Go!</button>
+			<button onclick="beak1_stop()">Stop</button>
+			<button onclick="alert(beak1.loserColumnIndex())">Worst One</button>
+			<!--<button onclick="beak1_swapcolumn1()">Swap 2 weghted from column 1</button>-->
+		</div>
+
+		<div id="mybeak">
+		</div>
+
+		<p>
+			Force Swap Column <input id="swap_column_index" type="text" size="2"/>: Lines <input id="swap_line_index1" type="text" size="2"/> and <input id="swap_line_index2" type="text" size="2"/>
+			<button onclick="beak1_force_swap()">Swap</button>
+		</p>
+
+		<h3>Score: <span id="myscore"></span></h3>
+
+		<p>
+			Testing info:<br/>
+			<span id="beak_numbers"></span>
+		</p>
+
+
+
+	</body>
+</html>

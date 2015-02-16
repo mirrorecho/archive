@@ -1,0 +1,14 @@
+[
+	{
+		"name" : "drone",
+		"filename" : "gizmo.drone.maxpat",
+		"height" : 30,
+		"width" : 30,
+		"description" : "Makes a drone sound!",
+		"help" : "You want it!"
+	},
+	{
+		"filename" : "gizmo_drone.maxpat",
+		"filename" : "gizmo_drone.maxpat"
+	}
+]

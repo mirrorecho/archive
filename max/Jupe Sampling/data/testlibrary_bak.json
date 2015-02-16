@@ -1,0 +1,154 @@
+{
+	"description" : "universal",
+	"tagtypes" : {
+		"places" : {
+			"description": "Tags for particular places"
+		},
+		"events" : {
+			"description": "Tags for particular events",
+			"notes" : "Travels, holidays, concerts, etc."
+		},
+		"impressions": {
+			"description": "Tags for impressions of sounds",
+			"notes" : " Sad, scary, funny, etc."
+		},
+		"instruments" : {
+			"description": "Tags for specific instrument sounds"
+		},
+		"living" : {
+			"description" : "Tags for sounds made by living creatures",
+			"notes" : "Human voices, animals, insects, etc."
+		},
+		"methods" : {
+			"description" : "Tags for methods of producing the sounds",
+			"notes" : "Recordings, synthesized, composite, etc."
+		},
+		"noise" : {
+			"description" : "Tags for all kinds of noises!"
+		}
+	},
+	"tags" : {
+		"myanmar" : {
+			"types" : ["places", "events"],
+			"description" : "Myanmar 2013",
+			"notes" : "Sounds recorded in Myanmar in November, 2013"
+		},
+		"voice" : {
+			"types" : ["instruments", "living"],
+			"description" : "Human voice",
+			"notes" : "Sounds with a human voice or voices"
+		},
+		"animal" : {
+			"types" : ["noise", "living"],
+			"description" : "Animal Sounds",
+			"notes" : "Animal sounds"
+		},
+		"machines" : {
+			"types" : ["noise"],
+			"description" : "Machine Sounds",
+			"notes" : "Machine Sounds"
+		}
+	},
+	"sounds" : {
+		"myanmar.amapura.chanting.1" : {
+			"description" : "Chanting in Amarapura",
+			"filename" : "Chanting in Amarapura.wav",
+			"tags" : ["myanmar", "voice"],
+			"pitched" : true,
+			"pitches" : [14, 35, 64, 95, 34],
+			"path" : "c:/test/test/test/test/test/test/test/test/",
+			"notes" : "This is changing from Amarapura in Myanmar. Recorded on a handheld recorder inside a monastary.",
+			"source_date" : "2013-11-10",
+			"create_date" : "2013-11-10",
+			"modified_date" : "2013-11-10"
+		},
+		"vcca.lawnmower.4": {
+			"description" : "Lawn Mower Drive-by 2",
+			"filename" : "Lawn Mower Drive-by 2.wav",
+			"tags" : ["machines"],
+			"pitched" : true,
+			"pitches" : [14, 35, 64, 95, 34],
+			"path" : "c:/test/test/test/test/test/test/test/test/",
+			"notes" : "Great panning lawnmower sound!.",
+			"source_date" : "2010-09-10",
+			"create_date" : "2010-09-10",
+			"modified_date" : "2010-09-10"
+		},
+		"myanmar.amapura.chanting.2": {
+			"description" : "Chanting in Amarapura 2",
+			"filename" : "Chanting in Amarapura 2.wav",
+			"tags" : ["myanmar", "voice"],
+			"pitched" : true,
+			"pitches" : [14, 35, 64, 95, 34],
+			"path" : "c:/test/test/test/test/test/test/test/test/",
+			"notes" : "This is changing from Amarapura in Myanmar. Recorded on a handheld recorder inside a monastary.",
+			"source_date" : "2013-11-10",
+			"create_date" : "2013-11-10",
+			"modified_date" : "2013-11-10"
+		},
+		"vcca.lawnmower.1": {
+			"description" : "Lawn Mower Drive-by",
+			"filename" : "Lawn Mower Drive-by.wav",
+			"tags" : ["machines"],
+			"pitched" : true,
+			"pitches" : [14, 35, 64, 95, 34],
+			"path" : "c:/test/test/test/test/test/test/test/test/",
+			"notes" : "Great panning lawnmower sound!.",
+			"source_date" : "2010-09-10",
+			"create_date" : "2010-09-10",
+			"modified_date" : "2010-09-10"
+		},
+		"vcca.lawnmower.2": {
+			"description" : "Lawn Mower Drive-by 2",
+			"filename" : "Lawn Mower Drive-by 2.wav",
+			"tags" : ["machines"],
+			"pitched" : true,
+			"pitches" : [14, 35, 64, 95, 34],
+			"path" : "c:/test/test/test/test/test/test/test/test/",
+			"notes" : "Great panning lawnmower sound!.",
+			"source_date" : "2010-09-10",
+			"create_date" : "2010-09-10",
+			"modified_date" : "2010-09-10"
+		},
+		"myanmar.amapura.chanting.3" : {
+			"description" : "Chanting in Amarapura",
+			"filename" : "Chanting in Amarapura.wav",
+			"tags" : ["myanmar", "voice"],
+			"pitched" : true,
+			"pitches" : [14, 35, 64, 95, 34],
+			"path" : "c:/test/test/test/test/test/test/test/test/",
+			"notes" : "This is changing from Amarapura in Myanmar. Recorded on a handheld recorder inside a monastary.",
+			"source_date" : "2013-11-10",
+			"create_date" : "2013-11-10",
+			"modified_date" : "2013-11-10"
+		},
+		"myanmar.amapura.chanting.4": {
+			"description" : "Chanting in Amarapura 2",
+			"filename" : "Chanting in Amarapura 2.wav",
+			"tags" : ["myanmar", "voice"],
+			"pitched" : true,
+			"pitches" : [14, 35, 64, 95, 34],
+			"path" : "c:/test/test/test/test/test/test/test/test/",
+			"notes" : "This is changing from Amarapura in Myanmar. Recorded on a handheld recorder inside a monastary.",
+			"source_date" : "2013-11-10",
+			"create_date" : "2013-11-10",
+			"modified_date" : "2013-11-10"
+		},
+		"vcca.lawnmower.3": {
+			"description" : "Lawn Mower Drive-by",
+			"filename" : "Lawn Mower Drive-by.wav",
+			"tags" : ["machines"],
+			"channels" : 2,
+			"length" : 1047.9987,
+			"pitched" : true,
+			"pitches" : [14, 35, 64, 95, 34],
+			"path" : "c:/test/test/test/test/test/test/test/test/",
+			"notes" : "Great panning lawnmower sound!.",
+			"source_date" : "2010-09-10",
+			"create_date" : "2010-09-10",
+			"modified_date" : "2010-09-10",
+			"source_sound" : false,
+			"derived_from" : "vcca.lawnmower.2"
+		}
+	}
+}
