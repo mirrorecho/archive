@@ -1,0 +1,2 @@
+@image{allvariations-1}
+@c eof
