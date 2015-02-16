@@ -1,0 +1,6 @@
+segBHViolinOne = \relative c'{f'8( e f e g c) c,( c') g( c g f) c'( f, e c') c,( e f e c) g'( f g e) c( c' f, g f) c'( f, g e) c( e f c) c'( g f) c( g' c) f,( c') c,( e c' e, c e c) e( g c g c) f,( c f c) e( f) }
+segBHViolinTwo = \relative c'{g''8( c) e,( c) c'( c, e c) e( c f c) f( g c) e,( f g c) g( c c,) g'( f g f e) c'( f, g f e c) c'( g c) c,( e c f c e f) c( f g) e( c') e,( f g c) e,( f c) g'( f c) g'( f g c e, g) }
+segBHViolinThree = \relative c'{c''8( g) c( g f g) c( g c g e f e) c( f g f) c( e f c e g c g c) f,( g) c,( e c f) c'( f, e c e f g) c( g f c) e( c f g e c) c'( f, g f c) c'( f, g f) c( f c' g c e,) }
+segBHViolinFour = \relative c'{e'8( f g c) c,( e f g) f( g c, e c) e( c e c' f, g) c( f, c) c'( g c f, g e c') e,( f g e c) c'( e, g c f, g) c( g c) f,( g e) c'( f, g f c') c,( c' c, e c e g e c') c,( e g c,) }
+segBHViolinFive = \relative c'{f'8( c e f e c) g'( f g f) c'( g f e g f g c) e,( c) e( f) c( e c) g'( f c e) c( e c) f( e f g c) c,( e c) e( g e f e c e g) f( g e f c) g'( f g c) e,( f g e f c e) }
+segBHViolinSix = \relative c'{c'8( e c e c) f( c e c e f) c'( g c e, c) e( f) c( e g c) e,( c) f( e c) f( e) c'( g c) f,( g e f c) g'( c, e g c f, g c) e,( f c) f( c f e g c) c,( e c) g'( c) e,( f e f c') }

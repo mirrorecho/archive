@@ -1,0 +1,12 @@
+lineHarmonyIOne = {b''8( b, c f g b g) b( b, c) b'( b, c f g b) b,( c b) b'( g b e, f) }
+lineHarmonyITwo = {c'8( b) b'( g b) b,( c b e b') g( e) b'( e, f g) b( b, c) f( g f e b') }
+lineHarmonyIThree = {b'8( b' e, f) c( g' f c) f( e f e g b g f c b) b'( e, f) c( b c) }
+lineHarmonyIFour = {e'8( f g) c,( b) b'( b, c b) g'( f c b) e( b') b,( c f c b) e( b' g f) }
+lineHarmonyIFive = {f'8( g) b( e, f e f e) c( b c f e b) b'( f g f g) c,( f g) c,( b) }
+lineHarmonyISix = {c'8( g' f g e g b) g( f c b) b'( g f c) g'( e c f b, c) f( g c,) }
+lineHarmonyISeven = {e'8( c b) e( b' e, b') b,( c f g b) b,( c b) e( b') e,( f g b) g( b b,) }
+lineHarmonyIEight = {g''8( f e) b( g' f) c( f g e) b( c f g e) b'( g b g e) b'( e, f e) }
+lineHarmonyINine = {f'8( e c b c b) e( g b) b,( e f c b c b e) b'( e, f c b) b'( g) }
+lineHarmonyITen = {b''8( e, f) b( e, f e b' e, f) c( b e b') b,( c f g b) g( e) b( c e) }
+lineHarmonyIEleven = {b'8( c) g'( b) b,( c b e g b) e,( g b g f e f e) b( c b e b b') }
+lineHarmonyITwelve = {g''8( b) b,( c f c) g'( f b g b g f) c( e c b) g'( e) b'( b, c f g) }

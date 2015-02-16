@@ -1,0 +1,7 @@
+segAMViolaCelloOne = \relative c'{g'8( e f e c) g'( f g e g e f d e) c( d c) g( c g) e'( g f g f g) e( c) g'( f d g,) g'( f e c g) e'( f g f c) g( c d e c f g) f( g f g f g f e)\> c( e g,) g'( f g e) }
+segAMViolaCelloTwo = \relative c'{f8( e g c, d c g) c( g) d'( c d f c g) c( g e' d g f e c) g( c g) c( g c d c g' f d e) d( c g d' f g f c) g( c g) g'( e c g c) d( c g) e'( f d\> e) g,( e' d f d f) }
+segAMViolaCelloThree = \relative c'{e8( c g c g) c( d e d c g) g'( f d e g,) g'( f e f d f) e( f d c d c g) g'( f g e f g f e d e d c g) f'( e) f( e d c) g( c d e g) c,( d c g)\> e'( g e) g,( e' f g,) }
+segAMViolaCelloFour = \relative c'{d8( f e g f e c g) g'( f g f e g f e) f( e g e c g d' e g e f d e) c( g) c( g) e'( d e g e c g) d'( e d f g f c g) d'( e g) g,( d' e f g f\> g f) g( f d e f) }
+segAMViolaCelloFive = \relative c'{c8( g c d e d e) g( f g f) c( g f' g f e c) g( f' g e g e) g,( c g) g'( f g e d f) c( g e' d f g f) e( f g e) g,( c g) d'( c d e) g( f d g,) e'( f)\> d( c d c) g( c g') }
+segAMViolaCelloSix = \relative c'{g8( d' c g) g'( f g) d( c g) f'( e c g) e'( g e d) f( d e d e d c f g) e( g) g,( g' f c) g( c g e' c) g( c g d' e d e g f) g( f g f g e f) c( g) g'(\> f e f e c g c) }
+segAMViolaCelloSeven = \relative c'{e8( g) d( f) c( g) g'( f g e d g,) g'( f) d( e d g f) c( g c g c) e( d c f d e g) e( d g f g) f( g f e f g e g) e( d e c e g) g,( c g) g'( f d c\> g d' c) e( g f d) }

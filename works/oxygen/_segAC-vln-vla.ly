@@ -1,0 +1,8 @@
+segACViolinViolaOne = \relative c'{g''8(\<\p f c e, c) e( c e g\f\! c,) c'( g) g'( g, c, e f) f'( g, e g e g) g'( f) g,( c c,) c'( c,) g'( c) c,( e) c'( g' f g f c) c,( e) c( e) f'( g c, g f' g f g) e,( c f g') }
+segACViolinViolaTwo = \relative c'{f'8(\<\p g e c) g( f') f,( g c\f\! g c) c,( e c) c'( c, g' e) c( e c g') f'( g, c) f( g c, g' f g) g,( f') g( f e) e,( e' f g f) g,( e g) c( f g c,) f,( c c' e, c) e( g f') }
+segACViolinViolaThree = \relative c'{c'8(\<\p f, e) g'( f g f e) e,(\f\! c') c,( c' g g' f c) c,( f c' g) g'( f g f g) e( e, c) e( g) g'( f g) g,( f' c g') g,( e) f'( g e g c,) c,( e c g' e g e) c'( f c) c,( e) }
+segACViolinViolaFour = \relative c'{c8(\<\p e) f'( e) e,( c g' e) e'(\f\! g f g) c,( g e f e g) f'( c f c) c,( e g) g'( f g f g c, g') c,( f g, e c e c f) f'( c g e c) g'( e c) g'( e g e e' f g f) }
+segACViolinViolaFive = \relative c'{g'8(\<\p f' g f g c, f c) c,(\f\! e c e c e g) f'( g f g f) c( f c c, e c' g c) c,( e) c( e f) f'( f, g) c( f g f) f,( e c') c,( e c g' e c) c'( c,) g'( e e' f f,) }
+segACViolinViolaSix = \relative c'{f8(\<\p c') e,( g c f, e c e\f\! c e c) g'( c) g'( f c) c,( e e') e,( c f) f'( e) e,( c e g) g'( f g f c g' f e) e,( g) c,( e c e) e'( g) c,( g) g'( f) f,( f' e g g, e c) }
+segACViolinViolaSeven = \relative c'{e8(\<\p c g' c, e g c) g'( f)\f\! c( g) c( f g) g,( g' f c) e,( c e f e) f( e c e g c,) c'( g c,) g'( c, e c) e( c) c'( g c f e f) c( g) g'( f g f g f c) g'( f c) }
+segACViolinViolaEight = \relative c'{f'8(\<\p g, c, e) e'( f g f) g(\f\! f g f g f g) g,( f' g e g e g f c) c,( e) e'( f c) g( e g e f c e g c) f,( e g) g'( f g) g,( g' f g) c,( f) f,( c g' e c' g) }

@@ -1,0 +1,12 @@
+segAMViolinOne = \relative c'{g'8( e c) f( c b g) g'( f g d f) c( f e g,) g'( e b) f'( g e a, e' g) c,( e b g' e g) a,( g) f'( d f e g,) f'( e c) f( d e d e g) c,( f g) c,( g' f g f g f)\> b,( d e) a,( g) f'( g) }
+segAMViolinTwo = \relative c'{f8( d c a c g) g'( f g d f) a,( g b c e) b( e d f e) b( e b c f c a g) g'( f g e f g e d) b( a) f'( g f e f e) a,( c d b c d) g( e f c f c\> e g) e( f e f d) }
+segAMViolinThree = \relative c'{e8( a, c g' f) c( e g) g,( a g) f'( e f g e d e c a) e'( f c e f g) c,( e c) g'( e g b, g e') g,( a) e'( d f d f g e f e c) e( c g' e g) b,( f' e f e\> c) e( g e d) g,( f') }
+segAMViolinFour = \relative c'{d8( e g c,) e( c d) g( d g b, f' g f) a,( e' f e f b, e d e d c d c d) g( d) g( d f d e d e g e b) f'( e f e) b( e d c) g( b g') g,( a f' d f b,\> g) e'( f g f d f) }
+segAMViolinFive = \relative c'{c8( b c g d' c b g' e) g( f e f c) e( d c e g f) c( a e' f c a) g'( c, b c) g'( f g f e) a,( e' c f c) f( c e b a e') g,( a c d) g( e g) b,( g) f'( d\> e) c( e c) f( e f) }
+segAMViolinSix = \relative c'{a8( e') g,( c) g'( e g) a,( b g' e f d f) g,( b e) g,( a g b e d e) a,( b c g' f g) a,( g' d e f e g e) c( f) a,( b a e' c g c b c) e( g) d( g f b,) f'( g\> f e a, e' f) c( a) }
+segAMViolinSeven = \relative c'{e8( g, b c g c a g) g'( f g f b, g) f'( e) g,( a f' e f e g) c,( e c a g) g'( f g) g,( a) f'( a, b c e b a) f'( d c e g,) b( c g) c( a g) g'( c, d f) c( f\> d e d e c f e) }
+segAMViolinEight = \relative c'{g8( e' f d c a) f'( g) a,( b) f'( g f a,) e'( f e c f d a) e'( f e) c( e d c g') a,( g) g'( f c e g e f) g,( f' e f g, a e' g) b,( c d) g( a, b g') g,( a g) f'(\> e f) c( e) g( f g,) }
+segAMViolinNine = \relative c'{e8( c d e c) f( g c,) g'( e f d f e d e a,) g'( f g e) c( b) e( d c f c a g) b( c f) b,( g e' b e g f) g,( a e' g,) e'( d c g' e g) b,( c g' e f d f\> g e) g,( b f') b,( c) }
+segAMViolinTen = \relative c'{b8( e a, c a c g' e g) g,( a g a) f'( b, a) e'( d f c e g, e' g) g,( c b c d) g( d g) c,( f c) e( f d f g f) g,( e' g e c e f c g) g'( f g c, f) b,( a\> e' b e g, a f' b,) }
+segAMViolinEleven = \relative c'{e8( g e c b g') c,( b c g') c,( b f' g e g e) f( e f g,) g'( e) g,( b c g) c( e g) c,( b f' g e c e a,) f'( d) f( g e c e f) a,( c) g'( f g a, g a f' e f)\> a,( g e' d f g f) }
+segAMViolinTwelve = \relative c'{e8( f c b c d) g( d g) c,( f c f d e c e) b( g) f'( d e) g,( a c g c f g) b,( g' e f a, b) e( g,) e'( f) g,( b f' b, d) g( e f c a) g'( f g d f g) a,( g)\> e'( a, b e b a f') }

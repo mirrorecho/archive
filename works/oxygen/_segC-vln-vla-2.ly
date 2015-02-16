@@ -1,0 +1,16 @@
+segCViolinViolaTWOOne = \relative c'{e'8( b' b, e f) b( f g e b) b'( b, b' e, g e) }
+segCViolinViolaTWOTwo = \relative c'{b''8( g f b g) g,( c g) e'( g, c) e,( g' b) f( b) }
+segCViolinViolaTWOThree = \relative c'{b'8( b') e,( f b) g( e b' g e g,) g'( f g) c,( f) }
+segCViolinViolaTWOFour = \relative c'{f'8( e) b'( g b, f' b) e,( b' g b g b) b,( e f) }
+segCViolinViolaTWOFive = \relative c'{e'8( g e g,) g'( e) b'( g) g,( f b f b) g'( b g) }
+segCViolinViolaTWOSix = \relative c'{f8( b b') b,( c b' g b,) b'( b, f' e b c) f( b,) }
+segCViolinViolaTWOSeven = \relative c'{g''8( e g f e g) g,( e' g b) e,( f g) e,( f f') }
+segCViolinViolaTWOEight = \relative c'{e'8( f e b') e,( f b,) b'( f g e) b'( g b,) b'( b,) }
+segCViolinViolaTWONine = \relative c'{c'8( g b) f( c') f,( e f c') e,( f) f'( e g, e g) }
+segCViolinViolaTWOTen = \relative c'{b''8( b, c g' f e g) c,( b) f'( g e f b e, b') }
+segCViolinViolaTWOEleven = \relative c'{g''8( g,) g'( b, f c' f,) c'( e) b'( g b) e,( g f e) }
+segCViolinViolaTWOTwelve = \relative c'{b'8( c g c) b'( b, c f) e,( f e) g'( c, f b, c) }
+segCViolinViolaTWOThirteen = \relative c'{g'8( f g) e'( g, f g e f) c'( f, g e) e'( b e,) }
+segCViolinViolaTWOFourteen = \relative c'{g'8( e') f,( g b c e g, f e) c'( b f e c e) }
+segCViolinViolaTWOFifteen = \relative c'{c'8( f, c' f, g b) e( b e,) c'( b e, g f e b) }
+segCViolinViolaTWOSixteen = \relative c'{f8( c' f, c' f, g b e b e) e,( c') e,( c g' f) }

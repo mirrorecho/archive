@@ -1,0 +1,7 @@
+segBHViolaCelloOne = \relative c'{g'8( f e g e c) f,( c' e) g( e f) c( e c e f,) f'( f,) e'( c f, c') g'( f g f g f e g f) c( f e) f,( c') g'( f g e g) f,( e' f c e c) f( g f) c( e c) f( g c, f,) f'( e) f,( e' f g) }
+segBHViolaCelloTwo = \relative c'{f8( f,) e'( c) g'( e c g' f g) c,( f) f,( f' e f e f e c e c e g) c,( f) f,( f') f,( e' c) f( g e g f e c) e( g c,) g'( e f e f e f g f g) e( c) g'( c,) e( g c, f,) f'( g f e f,) }
+segBHViolaCelloThree = \relative c'{e8( c e f c) f,( c' f,) g'( e g f e g) e( g c,) f( g) f,( c') g'( f g e c f) c( e c f,) f'( e c e g c,) f,( c' f,) g'( e f c) f,( e') g( e c e c e g) c,( e g e g f) c( f g e c) }
+segBHViolaCelloFour = \relative c'{c8( e f e c) f( c e g) f,( f' e f e f e) g( e c e) f,( c' f,) e'( g e f e g e f c f,) e'( f e) c( e c) e( g c, f) f,( f' g f e f c) f( g) f,( f' f,) f'( g e f) f,( f') f,( e' f) }
+segBHViolaCelloFive = \relative c'{f,8( e' g) f,( c') g'( f g f, c' f g f) f,( e' c f c f e g f g) f,( g' f g f e) g( f e f e) f,( e' g f c) g'( f f,) g'( f) c( e c f,) f'( f,) f'( f,) c'( f,) c'( g') f,( g' e f c e c e) }
+segBHViolaCelloSix = \relative c'{f8( g) c,( e f c e g c,) g'( f) f,( f' c f,) e'( f) f,( e' g f c g') f( g) f,( c' f,) e'( f e f,) f'( g e c f c) f,( c' g' f c) f( g f,) e'( g e f) f,( e' f c) g'( c, g' f g f e c) f,( e') }
+segBHViolaCelloSeven = \relative c'{f8( e) f,( e' f,) c'( g' f g f) f,( c' g' e g) f,( f' g e f c e g) c,( f,) f'( e f c f,) f'( g f) f,( c' e f, c') g'( f f,) g'( f g f e) f,( e' f,) f'( e f c e c) f,( f' g) c,( g' f e g e) }
